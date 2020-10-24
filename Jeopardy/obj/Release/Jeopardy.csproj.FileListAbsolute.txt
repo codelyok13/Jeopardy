@@ -1,0 +1,6 @@
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.Form1.resources
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.Properties.Resources.resources
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.csproj.GenerateResource.cache
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.csproj.CoreCompileInputs.cache
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.exe
+F:\Programming Projects\Programming Projects\Jeopardy\Jeopardy\obj\Release\Jeopardy.pdb
